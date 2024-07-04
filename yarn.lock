@@ -2450,6 +2450,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@material-tailwind/html@npm:^2.2.2":
+  version: 2.2.2
+  resolution: "@material-tailwind/html@npm:2.2.2"
+  dependencies:
+    deepmerge: "npm:^4.2.2"
+    material-ripple-effects: "npm:^2.0.1"
+  checksum: b3552e57be6d1e69086b525ecea7753b38a59cfb5cf27e1ad837227606aaea4bf6fe9859fa6ed75205c89b51c56335a9b355130764ad5a84ad8b1e7d32ae892f
+  languageName: node
+  linkType: hard
+
 "@nicolo-ribaudo/semver-v6@npm:^6.3.3":
   version: 6.3.3
   resolution: "@nicolo-ribaudo/semver-v6@npm:6.3.3"
@@ -8034,6 +8044,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"material-ripple-effects@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "material-ripple-effects@npm:2.0.1"
+  checksum: d5eccb708ca6c7460f0402fc308cd9c86e442d3abc20394fb2313be47347a7cc67131d1db1b829d835887d897f54892fcb5bad2f5526878164d6f6803e06d05b
+  languageName: node
+  linkType: hard
+
 "merge-stream@npm:^2.0.0":
   version: 2.0.0
   resolution: "merge-stream@npm:2.0.0"
@@ -9183,6 +9200,7 @@ __metadata:
   resolution: "raditya-react-typescript-boilerplate@workspace:."
   dependencies:
     "@babel/core": "npm:^7.0.0"
+    "@material-tailwind/html": "npm:^2.2.2"
     "@testing-library/dom": "npm:>=7.21.4"
     "@testing-library/jest-dom": "npm:^5.16.5"
     "@testing-library/react": "npm:^13.4.0"
