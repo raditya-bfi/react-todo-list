@@ -42,4 +42,4 @@ export const colors = {
   ...importedColors,
 };
 
-export const DEFAULT_FONT_FAMILY = 'Helvetica Neue, Arial Narrow';
+export const DEFAULT_FONT_FAMILY = 'Roboto';

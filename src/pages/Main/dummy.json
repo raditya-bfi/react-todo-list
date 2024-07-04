@@ -1,0 +1,29 @@
+{
+    "tasks": [
+        {
+          "id": 0,
+          "checked": true,
+          "title": "Account created"
+        },
+        {
+          "id": 1,
+          "checked": false,
+          "title": "Verify your info"
+        },
+        {
+         "id": 2,
+          "checked": false,
+          "title": "Add a default sender address"
+        },
+        {
+         "id": 3,
+          "checked": false,
+          "title": "Top up credits"
+        },
+        {
+          "id": 4,
+          "checked": false,
+          "title": "Send your first parcel!🎉"
+        }
+      ]
+}
