@@ -1,0 +1,76 @@
+/* HelveticaNeue - Thin */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 100;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Thin.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Thin.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - Ultralight */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 200;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Ultralight.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Ultralight.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - Light */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Light.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Light.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - Regular */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Regular.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Regular.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - RegularItalic */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-RegularItalic.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-RegularItalic.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - Medium */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Medium.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Medium.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* HelveticaNeue - Bold */
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('./assets/fonts/helvetica-neue/HelveticaNeue-Bold.otf') format('truetype'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./assets/fonts/helvetica-neue/HelveticaNeue-Bold.otf') format('truetype');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
