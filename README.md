@@ -2,7 +2,7 @@
 
 React To Do List with Tailwind CSS
 
-![Preview](public/assets/png/preview-2.png)
+![Preview](public/assets/png/preview-3.png)
 
 ## Run Locally
 
