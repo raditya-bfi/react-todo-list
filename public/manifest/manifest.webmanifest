@@ -4,9 +4,9 @@
     "display": "browser",
     "scope": "/",
     "start_url": "/",
-    "name": "React Vite Material Boilerplate",
-    "short_name": "React Vite Material Boilerplate",
-    "description": "React Vite Material Boilerplate",
+    "name": "React Vite Tailwind Boilerplate",
+    "short_name": "React Vite Tailwind Boilerplate",
+    "description": "React Vite Tailwind Boilerplate",
     "icons": [
         {
             "src": "/logo192.png",

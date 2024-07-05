@@ -1,19 +1,21 @@
-# react-vite-material-boilerplate
+# react-to-do-list
 
-A brief description of what this project does and who it's for
+React To Do List with Tailwind CSS
+
+![Preview](public/assets/png/preview.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/raditya-bfi/react-vite-material-boilerplate.git
+  git clone https://github.com/raditya-bfi/react-todo-list.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd react-vite-material-boilerplate
+  cd react-todo-list
 ```
 
 Install dependencies
